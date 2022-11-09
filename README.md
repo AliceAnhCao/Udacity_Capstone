@@ -1,4 +1,5 @@
 # Credit card fraud detection Project
+This project is belonged to Capstone project data analysis. The blog of this analysis is in https://medium.com/@caohongvananh/fraud-detection-in-banking-c567b6a99b99?postPublishedType=initial
 
 
 ## File Introduction:
